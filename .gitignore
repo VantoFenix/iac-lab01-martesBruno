@@ -1,0 +1,11 @@
+# Terraform
+**/.terraform/
+*.tfstate
+*.tfstate.*
+
+# Java / Maven
+**/target/
+*.jar
+*.exe
+# Docker (Opcional, si usas datos persistentes localmente)
+**/.docker/

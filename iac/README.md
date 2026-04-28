@@ -22,3 +22,4 @@ El código sigue las mejores prácticas de organización por paquetes:
 1. Navegar a la carpeta del proyecto:
    ```bash
    cd demo/demo
+   imnplementacion de docker compose en lugar de docker file para mayor limpieza de codigo 
